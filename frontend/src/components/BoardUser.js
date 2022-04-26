@@ -39,7 +39,7 @@ export default class BoardUser extends Component {
     }
     callWeatherAPI(e) {
         // const city = e.target.value
-        // const url = `http://api.openweathermap.org/data/2.5/weather?q=${city}&appid=154f51e5405eaedd34e7ef47b1b33387`
+        // const url = `http://api.openweathermap.org/data/2.5/weather?q=${city}&appid=`
         // fetch(url)
         // .then(response => response.json())
         // .then(data => {
